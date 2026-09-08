@@ -9,6 +9,8 @@ At night and on the weekends, i split my time between open source work, visiting
 - `eslint-plugin-package-json` [![NPM](https://img.shields.io/npm/dm/eslint-plugin-package-json?&logo=npm&label=&color=DA261A)](https://www.npmjs.com/package/eslint-plugin-package-json)
 - `package-json-validator` [![NPM](https://img.shields.io/npm/dm/package-json-validator?&logo=npm&label=&color=DA261A)](https://www.npmjs.com/package/package-json-validator)
 - `eslint-fix-utils` [![NPM](https://img.shields.io/npm/dm/eslint-fix-utils?&logo=npm&label=&color=DA261A)](https://www.npmjs.com/package/eslint-fix-utils)
+- `flint` [![NPM](https://img.shields.io/npm/dm/flint?&logo=npm&label=&color=DA261A)](https://www.npmjs.com/package/flint)
+- `@mfaith/create` [![NPM](https://img.shields.io/npm/dm/@mfaith/create?&logo=npm&label=&color=DA261A)](https://www.npmjs.com/package/@mfaith/create)
 
 
 [![Follow on Bluesky](https://img.shields.io/badge/Follow-Bluesky-3B82F6.svg)](https://bsky.app/profile/michael.faith)
